@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Midad Quran Inserter 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 10:00+0000\n"
+"PO-Revision-Date: 2026-02-22 12:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1\n"
+
+#: midad-quran-inserter.php:21
+msgid "Midad Quran Settings"
+msgstr "إعدادات مداد للقرآن"
+
+#: midad-quran-inserter.php:22
+msgid "Midad Quran"
+msgstr "مداد للقرآن"
+
+#: midad-quran-inserter.php:39
+msgid "Midad Quran Inserter Settings"
+msgstr "إعدادات أداة إدراج الآيات العثمانية (مداد)"
+
+#: midad-quran-inserter.php:49
+msgid "API Provider"
+msgstr "صانع الخدمة (API Provider)"
+
+#: midad-quran-inserter.php:52
+msgid "Quran.com API (Free, Limited Search)"
+msgstr "واجهة Quran.com (مجانية، بحث محدود بدون شكل عثماني)"
+
+#: midad-quran-inserter.php:53
+msgid "Kalimat API (Advanced, Requires Key)"
+msgstr "واجهة Kalimat API (بحث متقدم ورسم عثماني، يتطلب مفتاح)"
+
+#: midad-quran-inserter.php:60
+msgid "Kalimat API Key"
+msgstr "مفتاح Kalimat API (X-Api-Key)"
+
+#: midad-quran-inserter.php:63
+msgid "Enter your X-Api-Key for Kalimat.dev"
+msgstr "أدخل مفتاحك الخاص بـ Kalimat.dev هنا"
+
+#: midad-quran-inserter.php:93
+msgid "Search query cannot be empty"
+msgstr "لا يمكن أن يكون حقل البحث فارغاً"
+
+#: midad-quran-inserter.php:100
+msgid "Kalimat API key is not configured in settings"
+msgstr "مفتاح Kalimat API غير مهيأ في إعدادات الإضافة"
+
+#: midad-quran-inserter.php:148 midad-quran-inserter.php:176
+#, php-format
+msgid "Surah %1$s - Ayah %2$s"
+msgstr "سورة %1$s - آية %2$s"
+
+#: assets/block.js:14
+msgid "Midad Quran Inserter"
+msgstr "مداد لإدراج الآيات القرآنية"
+
+#: assets/block.js:42
+msgid "Please enter a search term"
+msgstr "الرجاء إدخال كلمة للبحث"
+
+#: assets/block.js:54
+msgid "No verses found. Try another keyword."
+msgstr "لم يتم العثور على أي آيات. جرب كلمة أخرى."
+
+#: assets/block.js:58
+msgid "API Error: "
+msgstr "خطأ في الاتصال: "
+
+#: assets/block.js:58
+msgid "Check your API Key / Provider settings."
+msgstr "يرجى التحقق من إعدادات المفتاح / مزود الخدمة."
+
+#: assets/block.js:66
+msgid "Search Quran (Kalimat / Quran.com API)"
+msgstr "البحث في القرآن الكريم (Kalimat / Quran.com)"
+
+#: assets/block.js:70
+msgid "Enter a word, surah, or surah:ayah..."
+msgstr "أدخل كلمة، اسم سورة، أو (رقم السورة:الآية)..."
+
+#: assets/block.js:78
+msgid "Searching..."
+msgstr "جاري البحث..."
+
+#: assets/block.js:78
+msgid "Search"
+msgstr "بحث"
+
+#: assets/block.js:102
+msgid "Insert"
+msgstr "إدراج"
+
+#: assets/block.js:114 assets/block.js:142
+msgid "Surah"
+msgstr "سورة"
+
+#: assets/block.js:122
+msgid "Remove & Search Again"
+msgstr "إزالة الآية والبحث مجدداً"

@@ -1,0 +1,82 @@
+.midad-search-ui {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.midad-search-ui h4 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #1e1e1e;
+}
+
+.midad-search-bar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.midad-search-bar .components-text-control__wrapper {
+    flex: 1;
+    min-width: 0; /* Prevents overflow pushing */
+}
+
+/* Force the base control to fill the flex container */
+.midad-search-bar .components-base-control {
+    flex: 1;
+    width: 100%;
+}
+
+.midad-search-bar input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.midad-results-list {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #eee;
+    background: #fafafa;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.midad-result-item {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.midad-result-item:last-child {
+    margin-bottom: 0;
+}
+
+.midad-result-text {
+    font-family: 'Amiri Quran', serif;
+    font-size: 1.5rem;
+    direction: rtl;
+    text-align: right;
+    margin-bottom: 15px;
+    line-height: 2;
+}
+
+.midad-result-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #efefef;
+    padding-top: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 13px;
+    color: #666;
+}
+
+.midad-inserted-verse.editor-view {
+    border: 2px dashed #007cba;
+    background: #f9f9f9;
+}

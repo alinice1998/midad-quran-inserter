@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Cairo:wght@400;600&display=swap');
+
+.midad-quran-block {
+    margin: 2rem 0;
+    padding: 2rem;
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.midad-arabic-text {
+    font-family: 'Amiri Quran', serif;
+    font-size: 2rem !important;
+    /* Force override WP defaults */
+    line-height: 2.2 !important;
+    color: #111827;
+    direction: rtl;
+    margin-bottom: 1rem;
+}
+
+.midad-ayah-symbol {
+    font-size: 1.5rem;
+    color: #4b5563;
+    margin-right: 8px;
+}
+
+.midad-verse-reference {
+    font-family: 'Cairo', sans-serif;
+    font-size: 1rem;
+    color: #6b7280;
+    margin-top: 1rem;
+    font-weight: 600;
+}
