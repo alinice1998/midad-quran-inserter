@@ -1,7 +1,5 @@
 # Midad Quran Inserter
 
-![Midad Quran Inserter](https://via.placeholder.com/800x400.png?text=Midad+Quran+Inserter)
-
 A Gutenberg block plugin for WordPress that allows users to easily search and insert Quranic verses in beautiful Uthmani script via the Kalimat API.
 
 ## Features
