@@ -38,9 +38,6 @@ A Gutenberg block plugin for WordPress that allows users to easily search and in
 5.  Click the **Search** button.
 6.  Browse the results and click **Insert** to add a verse to your content.
 
-## Screenshots
-
-*(Add screenshots of the settings page and the block UI here)*
 
 ## License
 

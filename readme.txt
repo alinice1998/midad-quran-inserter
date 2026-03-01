@@ -40,11 +40,6 @@ Yes, this plugin relies on the Kalimat API (kalimat.dev) to process searches and
 
 No, this plugin is designed specifically for the modern WordPress Block Editor (Gutenberg) and will not work with the Classic Editor.
 
-== Screenshots ==
-
-1. The Midad Quran block interface in the editor.
-2. The search results displaying Uthmani script verses.
-3. The plugin settings page for entering the Kalimat API Key.
 
 == Changelog ==
 
